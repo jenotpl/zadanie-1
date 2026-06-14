@@ -1,0 +1,163 @@
+[
+  {
+    "id": "demo_001",
+    "title": "The Effect of Social Media on Self-Esteem in Adolescents",
+    "authors": [
+      "Smith, J.",
+      "Johnson, M.",
+      "Williams, R."
+    ],
+    "abstract": "This study investigates the relationship between social media usage and self-esteem levels in adolescents aged 13-18. We conducted a longitudinal study with 250 participants over 6 months.",
+    "publication_date": "2024-03-15",
+    "peer_reviewed": true,
+    "url": "https://example.com/study/demo_001",
+    "doi": "10.1234/example.2024.001",
+    "keywords": [
+      "social media",
+      "self-esteem",
+      "adolescents",
+      "mental health"
+    ],
+    "citation_count": 42,
+    "raw_data_url": "https://osf.io/demo001/data",
+    "code_repository": "https://github.com/example/study-social-media",
+    "protocol_url": "https://osf.io/demo001/protocol",
+    "sample_size": "250 participants",
+    "effect_size": "d = 0.67 (medium effect)",
+    "statistical_analysis": "Linear mixed-effects models with random intercepts",
+    "materials_url": "https://osf.io/demo001/materials",
+    "data_availability": "Available upon request",
+    "code_availability": "Publicly available",
+    "methodology": "Longitudinal study with standardized questionnaires administered online"
+  },
+  {
+    "id": "demo_002",
+    "title": "Cognitive Behavioral Therapy for Anxiety: A Meta-Analysis",
+    "authors": [
+      "Chen, L.",
+      "Garcia, P.",
+      "Thompson, K.",
+      "Davis, S."
+    ],
+    "abstract": "Meta-analysis of 45 randomized controlled trials examining the efficacy of CBT for various anxiety disorders. Total sample of 2,847 participants.",
+    "publication_date": "2024-02-20",
+    "peer_reviewed": true,
+    "url": "https://example.com/study/demo_002",
+    "doi": "10.1234/example.2024.002",
+    "keywords": [
+      "CBT",
+      "anxiety disorders",
+      "meta-analysis",
+      "psychotherapy",
+      "treatment"
+    ],
+    "citation_count": 128,
+    "raw_data_url": "https://osf.io/demo002/data",
+    "code_repository": "https://github.com/example/meta-analysis-cbt",
+    "protocol_url": "https://osf.io/demo002/protocol",
+    "sample_size": "45 studies, 2,847 participants total",
+    "effect_size": "g = 0.95 (large effect)",
+    "statistical_analysis": "Random-effects meta-analysis with heterogeneity assessment",
+    "materials_url": "https://osf.io/demo002/materials",
+    "data_availability": "Supplementary materials available",
+    "code_availability": "R scripts available",
+    "methodology": "Systematic review and meta-analysis following PRISMA guidelines"
+  },
+  {
+    "id": "demo_003",
+    "title": "Memory Consolidation During Sleep: An fMRI Study",
+    "authors": [
+      "Patel, N.",
+      "Anderson, B.",
+      "Kim, S."
+    ],
+    "abstract": "Investigation of neural correlates of memory consolidation during REM sleep using functional MRI. 35 healthy young adults participated.",
+    "publication_date": "2024-01-10",
+    "peer_reviewed": true,
+    "url": "https://example.com/study/demo_003",
+    "doi": "10.1234/example.2024.003",
+    "keywords": [
+      "memory",
+      "sleep",
+      "fMRI",
+      "REM",
+      "consolidation"
+    ],
+    "citation_count": 67,
+    "raw_data_url": "https://osf.io/demo003/data",
+    "code_repository": "https://github.com/example/memory-sleep-fmri",
+    "protocol_url": "https://osf.io/demo003/protocol",
+    "sample_size": "35 participants",
+    "effect_size": "Cluster-level FWE-corrected p < 0.001",
+    "statistical_analysis": "SPM12 with mixed-effects modeling",
+    "materials_url": "https://osf.io/demo003/materials",
+    "data_availability": "BIDS-formatted data available",
+    "code_availability": "MATLAB and Python scripts provided",
+    "methodology": "Within-subject fMRI design with behavioral testing during wake and sleep"
+  },
+  {
+    "id": "demo_004",
+    "title": "Environmental Stress and Academic Performance in University Students",
+    "authors": [
+      "López, M.",
+      "Müller, K.",
+      "O'Brien, P."
+    ],
+    "abstract": "Cross-sectional study examining relationships between environmental stressors and GPA in 480 university students.",
+    "publication_date": "2023-12-05",
+    "peer_reviewed": true,
+    "url": "https://example.com/study/demo_004",
+    "doi": "10.1234/example.2023.004",
+    "keywords": [
+      "stress",
+      "academic performance",
+      "university",
+      "environment"
+    ],
+    "citation_count": 23,
+    "raw_data_url": "https://osf.io/demo004/data",
+    "code_repository": "https://github.com/example/environmental-stress",
+    "protocol_url": "https://osf.io/demo004/protocol",
+    "sample_size": "480 students",
+    "effect_size": "r = -0.42",
+    "statistical_analysis": "Multiple regression with bootstrapped confidence intervals",
+    "materials_url": "https://osf.io/demo004/materials",
+    "data_availability": "Anonymized data available",
+    "code_availability": "R Markdown document available",
+    "methodology": "Validated instruments: Perceived Stress Scale and academic records"
+  },
+  {
+    "id": "demo_005",
+    "title": "Neuroplasticity and Language Learning in Bilingual Children",
+    "authors": [
+      "Zhang, W.",
+      "Silva, J.",
+      "Novak, I.",
+      "Brown, T.",
+      "Harris, L."
+    ],
+    "abstract": "Longitudinal neuroimaging study tracking language acquisition and neural changes in 60 bilingual children over 2 years.",
+    "publication_date": "2023-11-18",
+    "peer_reviewed": true,
+    "url": "https://example.com/study/demo_005",
+    "doi": "10.1234/example.2023.005",
+    "keywords": [
+      "neuroplasticity",
+      "bilingual",
+      "language",
+      "children",
+      "fMRI"
+    ],
+    "citation_count": 89,
+    "raw_data_url": "https://osf.io/demo005/data",
+    "code_repository": "https://github.com/example/bilingual-neuroplasticity",
+    "protocol_url": "https://osf.io/demo005/protocol",
+    "sample_size": "60 children, 3 timepoints",
+    "effect_size": "Time × Language interaction, F = 8.34, p < 0.001",
+    "statistical_analysis": "Mixed-effects ANOVA with ROI analysis",
+    "materials_url": "https://osf.io/demo005/materials",
+    "data_availability": "Available through institutional repository",
+    "code_availability": "FSL pipelines and custom Python scripts",
+    "methodology": "Structural and functional MRI with behavioral language testing"
+  }
+]

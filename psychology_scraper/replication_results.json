@@ -1,0 +1,29 @@
+{
+  "study_title": "The Effect of Social Media on Self-Esteem in Adolescents",
+  "study_doi": "10.1234/example.2024.001",
+  "replication_timestamp": "2026-06-14T20:10:59.723939",
+  "original_parameters": {
+    "sample_size": 250,
+    "cohens_d": 0.67,
+    "methodology": "Longitudinal study with standardized questionnaires administered online",
+    "statistical_analysis": "Linear mixed-effects models with random intercepts"
+  },
+  "replication_results": {
+    "control_mean": -0.07224673418020873,
+    "control_std": 0.9320413111990101,
+    "treatment_mean": 0.7374009259371477,
+    "treatment_std": 0.9977551801383612,
+    "replicated_cohens_d": 0.8386155290688826,
+    "t_statistic": 6.629837882612033,
+    "p_value": 2.0845210303309914e-10,
+    "ci_lower": 0.5702889545309077,
+    "ci_upper": 1.0490063657038051,
+    "effect_size_ci_lower": 0.6386155290688826,
+    "effect_size_ci_upper": 1.0386155290688825
+  },
+  "data_summary": {
+    "sample_size": 250,
+    "control_n": 125,
+    "treatment_n": 125
+  }
+}
